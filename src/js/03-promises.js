@@ -52,10 +52,10 @@ function createPromise(position, delay) {
 //   const delay = e.currentTarget.step;
 //   const amount = e.currentTarget.amount;
 
-//   const promises = [];
+//   const promiseNumbers = [];
 //   let sum = 0;
 
-//   while (promises.length < amount.value) {
+//   while (promiseNumbers.length < amount.value) {
 //     promises.push((sum += 1));
 //   }
 
